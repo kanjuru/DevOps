@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is the production Branch
+=======
+Kanjuru in devops
+---
+From development branch
+>>>>>>> development
